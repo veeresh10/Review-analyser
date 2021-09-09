@@ -1,4 +1,4 @@
-# Review-analyser
+# Review-analyser (https://thinkpixel.tech/)
 The main motive behind developing Review analyser is to help online buyers make
 promising decisions by choosing the right product based on the existing customer reviews.
 e emergence of online shopping platforms such as Amazon, Flipkart, E-bay has enabled
@@ -23,4 +23,7 @@ better product.
 
 # Design
 
+![REVIEW](https://user-images.githubusercontent.com/56391020/132672887-2493de08-a0d6-4a69-8a29-ac32d18b648e.jpeg)
 
+# Website
+https://thinkpixel.tech/
